@@ -1,6 +1,6 @@
 # alx_html_css
 
-CSS Advanced
+# CSS Advanced
 This project is part of the ALX Software Engineering curriculum and focuses on the implementation of advanced CSS concepts, particularly styling a webpage based on a designer file provided in Figma. The goal is to create a fully responsive and visually appealing layout that adheres strictly to modern web standards and best practices.
 
 🧠 Objectives
