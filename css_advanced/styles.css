@@ -27,7 +27,7 @@ body {
 
 .logo {
   float: left;
-  height: 30px;
+  /* height: 15px; */
   position: absolute;
   left: 11.46%;
   right: 76.81%;
@@ -399,11 +399,13 @@ body {
 .footer-social {
   flex: 1;
   min-width: 150px;
+
 }
 
 .footer-social a img {
   height: 20px;
   margin: 0 8px;
+  color: white
 }
 
 .copyright {
