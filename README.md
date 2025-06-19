@@ -42,3 +42,18 @@ and content ~ Custom fonts and color palette ~ Styled logo and navigation ~ HTML
 🧑‍💻 Author Rebi Edward Akpa Frontend Developer & Legal Practitioner Portfolio (Coming Soon) Email: rebifaizahedwardakpa@gmail.com
 
 ✅ Acknowledgments ~ ALX SE Team for project outline ~ Figma for the design file ~ Google Fonts for typography resources
+
+
+🌿 PureHTML Website
+A minimalist, responsive website built with pure HTML and CSS — no JavaScript, no frameworks, no fuss.
+
+✨ Features
+✅ Fully responsive layout
+
+✅ Clean, semantic HTML5
+
+✅ Custom CSS grid & flexbox — no external libraries
+
+✅ Fast load times and high performance
+
+✅ Great accessibility & SEO foundations
